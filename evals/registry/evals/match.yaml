@@ -1,0 +1,8 @@
+match:
+  id: match.test.v1
+  metrics:
+  - accuracy
+match.test.v1:
+  args:
+    samples_jsonl: match/samples.jsonl
+  class: evals.elsuite.basic.sample_match:Match

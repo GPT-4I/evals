@@ -21,5 +21,4 @@ battle:
     "Yes": 1.0
     "No": 0.0
   input_outputs:
-    input1: completion1
-    input2: completion2
+    input2: completion3
